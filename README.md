@@ -19,3 +19,5 @@ Responsive Footer Section is a versatile and user-friendly to add in you code ( 
    git clone https://github.com/TeamCeoxlkz/Responsive-Footer-Section.git
 
 You can add and modify full code with your own need!
+
+![photo_2024-04-01_13-07-11](https://github.com/TeamCeoxlkz/Responsive-Footer-Section/assets/96440893/2f074ae3-b3a0-4ef6-b7b6-4f8eda1b3e67)
